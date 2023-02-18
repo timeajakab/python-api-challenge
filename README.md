@@ -1,11 +1,12 @@
 # python-api-challenge
 "What is the weather like as we approach the equator?"
-Background
+
+## Background
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
 Now, we know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that?
 
-Before You Begin
+## Before You Begin
 Create a new repository for this project called python-api-challenge. Do not add this homework to an existing repository.
 
 Clone the new repository to your computer.
@@ -14,9 +15,9 @@ Inside your local Git repository, create a directory for this assignment. Use a 
 
 Inside the folder you just created, add the files called WeatherPy.ipynb and VacationPy.ipynb that you will find in the starter code ZIP file provided. These will be the main scripts to run for each analysis.
 
-Push your changes to GitHub.
+## Push your changes to GitHub.
 
-Add a .gitignore File
+
 For this assignment, you will need to add a .gitignore file to your repo. Doing so will prevent the api_keys.py file that contains your API key from being shared with the public. If you skip this step, anyone using GitHub could copy and use your API key, and you may incur charges as a result.
 
 To get stsrted, type git status in the command line to see a list of all the untracked files that you have created so far.
@@ -29,23 +30,22 @@ Open your python-api-challenge GitHub folder in VS Code.
 
 Open the .gitignore file and type the following code on the first line:
 
-# Adding config.py file.
-api_keys.py
+
 In the command line, type git status and press Enter. The output should indicate that the .gitignore file has been modified and the WeatherPy.ipynb file is untracked.
 
 Use git add, git commit, and git push to commit the modifications to .gitignore and the WeatherPy.ipynb file to GitHub.
 
 On GitHub, the only new file you should find is the WeatherPy.ipynb file.
 
-Files
+## Files
 Download the following files to help you get started:
 
 Module 6 Challenge filesLinks to an external site.
 
-Instructions
+## Instructions
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
-Part 1: WeatherPy
+## Part 1: WeatherPy
 In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python libraryLinks to an external site., the OpenWeatherMap APILinks to an external site., and your problem-solving skills to create a representative model of weather across cities.
 
 For this part, you'll use the WeatherPy.ipynb Jupyter notebook provided in the starter code ZIP file. The starter code will guide you through the process of using your Python coding skills to develop a solution to address the required functionalities.
