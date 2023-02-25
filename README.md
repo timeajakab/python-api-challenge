@@ -1,6 +1,15 @@
 # python-api-challenge
 "What is the weather like as we approach the equator?"
 
+
+## WeatherPy Trends analyzed:
+- As latitude approaches zero, temperature increases. 
+
+- Humidity is generally higher in Northern Hemisphere cities based on plots. 
+
+- Wind Speed is generally higher in Northern Hemisphere cities based on plots. 
+
+
 ## Background
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
